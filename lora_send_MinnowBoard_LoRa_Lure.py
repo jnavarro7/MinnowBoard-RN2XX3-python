@@ -27,7 +27,6 @@ Python script to send data using the Microchip RN2XX3 LoRa module with a MinnowB
 Python script use example:
 $sudo python lora_send_MinnowBoard_LoRa_Lure.py 'text to send'
 
-Jose Navarro
 """
 
 import time
